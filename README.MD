@@ -4,7 +4,7 @@
 ## Project Overview
 
 LibraryConnect is a comprehensive library management system designed to streamline the operations of educational libraries. It provides separate interfaces for librarians and students, making it easy to manage books, track borrowings, and facilitate communication between library staff and patrons.
-
+## Deployed Link - https://libraryconnect.netlify.app/
 ### Key Features
 
 #### For Librarians
