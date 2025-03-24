@@ -63,6 +63,3 @@ npm run dev
 - Digital book support
 - Inter-library loan management
 
-## License
-
-[MIT](LICENSE)
